@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewApp</string>
+    <string name="employee_full_name">ФИО</string>
+    <string name="employee_department">Отдел</string>
+</resources>
